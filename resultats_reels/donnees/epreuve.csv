@@ -1,0 +1,330 @@
+id_epreuve,id_sport,discipline,categorie,nom
+1,1,,Hommes,Men's individual
+2,1,,Hommes,Men's team
+3,1,,Femmes,Women's individual
+4,1,,Femmes,Women's team
+5,1,,Mixte,Mixed team
+6,2,,Femmes,Duet
+7,2,,Ouvert,Team
+8,3,,Hommes,100 metres
+9,3,,Hommes,200 metres
+10,3,,Hommes,400 metres
+11,3,,Hommes,800 metres
+12,3,,Hommes,1500 metres
+13,3,,Hommes,5000 metres
+14,3,,Hommes,"10,000 metres"
+15,3,,Hommes,110 metres hurdles
+16,3,,Hommes,400 metres hurdles
+17,3,,Hommes,3000 metres steeplechase
+18,3,,Hommes,4 × 100 metres relay
+19,3,,Hommes,4 × 400 metres relay
+20,3,,Hommes,Marathon
+21,3,,Hommes,20 kilometres walk
+22,3,,Hommes,High jump
+23,3,,Hommes,Pole vault
+24,3,,Hommes,Long jump
+25,3,,Hommes,Triple jump
+26,3,,Hommes,Shot put
+27,3,,Hommes,Discus throw
+28,3,,Hommes,Hammer throw
+29,3,,Hommes,Javelin throw
+30,3,,Hommes,Decathlon
+31,3,,Femmes,100 metres
+32,3,,Femmes,200 metres
+33,3,,Femmes,400 metres
+34,3,,Femmes,800 metres
+35,3,,Femmes,1500 metres
+36,3,,Femmes,5000 metres
+37,3,,Femmes,"10,000 metres"
+38,3,,Femmes,100 metres hurdles
+39,3,,Femmes,400 metres hurdles
+40,3,,Femmes,3000 metres steeplechase
+41,3,,Femmes,4 × 100 metres relay
+42,3,,Femmes,4 × 400 metres relay
+43,3,,Femmes,Marathon
+44,3,,Femmes,20 kilometres walk
+45,3,,Femmes,High jump
+46,3,,Femmes,Pole vault
+47,3,,Femmes,Long jump
+48,3,,Femmes,Triple jump
+49,3,,Femmes,Shot put
+50,3,,Femmes,Discus throw
+51,3,,Femmes,Hammer throw
+52,3,,Femmes,Javelin throw
+53,3,,Femmes,Heptathlon
+54,3,,Mixte,4 × 400 metres relay
+55,3,,Mixte,Marathon walk relay
+56,4,,Hommes,Men's singles
+57,4,,Femmes,Women's singles
+58,4,,Hommes,Men's doubles
+59,4,,Femmes,Women's doubles
+60,4,,Mixte,Mixed doubles
+61,5,5x5,Hommes,Men
+62,5,5x5,Femmes,Women
+63,5,3x3,Hommes,Men 3x3
+64,5,3x3,Femmes,Women 3x3
+65,6,,Hommes,51 kg
+66,6,,Hommes,57 kg
+67,6,,Hommes,63.5 kg
+68,6,,Hommes,71 kg
+69,6,,Hommes,80 kg
+70,6,,Hommes,92 kg
+71,6,,Hommes,+92 kg
+72,6,,Femmes,50 kg
+73,6,,Femmes,54 kg
+74,6,,Femmes,57 kg
+75,6,,Femmes,60 kg
+76,6,,Femmes,66 kg
+77,6,,Femmes,75 kg
+78,7,,Hommes,B-Boys
+79,7,,Femmes,B-Girls
+80,8,Slalom,Hommes,Men's C-1
+81,8,Slalom,Hommes,Men's K-1
+82,8,Slalom,Hommes,Men's Kayak cross
+83,8,Slalom,Femmes,Women's C-1
+84,8,Slalom,Femmes,Women's K-1
+85,8,Slalom,Femmes,Women's Kayak cross
+86,8,Sprint,Hommes,C-1 1000 metres
+87,8,Sprint,Hommes,C-2 500 metres
+88,8,Sprint,Hommes,K-1 1000 metres
+89,8,Sprint,Hommes,K-2 500 metres
+90,8,Sprint,Hommes,K-4 500 metres
+91,8,Sprint,Femmes,C-1 200 metres
+92,8,Sprint,Femmes,C-2 500 metres
+93,8,Sprint,Femmes,K-1 500 metres
+94,8,Sprint,Femmes,K-2 500 metres
+95,8,Sprint,Femmes,K-4 500 metres
+96,9,Road cycling,Hommes,Men's road race
+97,9,Road cycling,Hommes,Men's time trial
+98,9,Road cycling,Femmes,Women's road race
+99,9,Road cycling,Femmes,Women's time trial
+100,9,Track cycling,Hommes,Sprint
+101,9,Track cycling,Hommes,Team sprint
+102,9,Track cycling,Hommes,Keirin
+103,9,Track cycling,Hommes,Madison
+104,9,Track cycling,Hommes,Omnium
+105,9,Track cycling,Hommes,Team pursuit
+106,9,Track cycling,Femmes,Sprint
+107,9,Track cycling,Femmes,Team sprint
+108,9,Track cycling,Femmes,Keirin
+109,9,Track cycling,Femmes,Madison
+110,9,Track cycling,Femmes,Omnium
+111,9,Track cycling,Femmes,Team pursuit
+112,9,Mountain biking,Hommes,Men's cross-country
+113,9,Mountain biking,Femmes,Women's cross-country
+114,9,BMX,Hommes,Men's race
+115,9,BMX,Femmes,Women's race
+116,9,BMX,Hommes,Men's freestyle
+117,9,BMX,Femmes,Women's freestyle
+118,10,,Hommes,3 m springboard
+119,10,,Hommes,10 m platform
+120,10,,Hommes,Synchronized 3 m springboard
+121,10,,Hommes,Synchronized 10 m platform
+122,10,,Femmes,3 m springboard
+123,10,,Femmes,10 m platform
+124,10,,Femmes,Synchronized 3 m springboard
+125,10,,Femmes,Synchronized 10 m platform
+126,11,,Ouvert,Individual dressage
+127,11,,Ouvert,Team dressage
+128,11,,Ouvert,Individual eventing
+129,11,,Ouvert,Team eventing
+130,11,,Ouvert,Individual jumping
+131,11,,Ouvert,Team jumping
+132,12,,Hommes,Individual épée
+133,12,,Hommes,Team épée
+134,12,,Hommes,Individual foil
+135,12,,Hommes,Team foil
+136,12,,Hommes,Individual sabre
+137,12,,Hommes,Team sabre
+138,12,,Femmes,Individual épée
+139,12,,Femmes,Team épée
+140,12,,Femmes,Individual foil
+141,12,,Femmes,Team foil
+142,12,,Femmes,Individual sabre
+143,12,,Femmes,Team sabre
+144,13,,Hommes,Men
+145,13,,Femmes,Women
+146,14,,Hommes,Men
+147,14,,Femmes,Women
+148,15,,Hommes,Men's individual
+149,15,,Femmes,Women's individual
+150,16,Artistic gymnastics,Hommes,Team all-around
+151,16,Artistic gymnastics,Hommes,Individual all-around
+152,16,Artistic gymnastics,Hommes,Floor exercise
+153,16,Artistic gymnastics,Hommes,Pommel horse
+154,16,Artistic gymnastics,Hommes,Rings
+155,16,Artistic gymnastics,Hommes,Vault
+156,16,Artistic gymnastics,Hommes,Parallel bars
+157,16,Artistic gymnastics,Hommes,Horizontal bar
+158,16,Artistic gymnastics,Femmes,Team all-around
+159,16,Artistic gymnastics,Femmes,Individual all-around
+160,16,Artistic gymnastics,Femmes,Vault
+161,16,Artistic gymnastics,Femmes,Uneven bars
+162,16,Artistic gymnastics,Femmes,Balance beam
+163,16,Artistic gymnastics,Femmes,Floor exercise
+164,16,Rhythmic gymnastics,Femmes,Group all-around
+165,16,Rhythmic gymnastics,Femmes,Individual all-around
+166,16,Trampoline,Hommes,Men's individual
+167,16,Trampoline,Femmes,Women's individual
+168,17,,Hommes,Men
+169,17,,Femmes,Women
+170,18,,Hommes,Extra-lightweight (60 kg)
+171,18,,Hommes,Half-lightweight (66 kg)
+172,18,,Hommes,Lightweight (73 kg)
+173,18,,Hommes,Half-middleweight (81 kg)
+174,18,,Hommes,Middleweight (90 kg)
+175,18,,Hommes,Half-heavyweight (100 kg)
+176,18,,Hommes,Heavyweight (+100 kg)
+177,18,,Femmes,Extra-lightweight (48 kg)
+178,18,,Femmes,Half-lightweight (52 kg)
+179,18,,Femmes,Lightweight (57 kg)
+180,18,,Femmes,Half-middleweight (63 kg)
+181,18,,Femmes,Middleweight (70 kg)
+182,18,,Femmes,Half-heavyweight (78 kg)
+183,18,,Femmes,Heavyweight (+78 kg)
+184,18,,Mixte,Mixed team
+185,19,,Hommes,Men's
+186,19,,Femmes,Women's
+187,20,,Hommes,Single sculls
+188,20,,Hommes,Double sculls
+189,20,,Hommes,Quadruple sculls
+190,20,,Hommes,Coxless pair
+191,20,,Hommes,Coxless four
+192,20,,Hommes,Eight
+193,20,,Hommes,Lightweight double sculls
+194,20,,Femmes,Single sculls
+195,20,,Femmes,Double sculls
+196,20,,Femmes,Quadruple sculls
+197,20,,Femmes,Coxless pair
+198,20,,Femmes,Coxless four
+199,20,,Femmes,Eight
+200,20,,Femmes,Lightweight double sculls
+201,21,,Hommes,Men's tournament
+202,21,,Femmes,Women's tournament
+203,22,,Hommes,iQFoil
+204,22,,Hommes,Formula Kite
+205,22,,Hommes,Laser
+206,22,,Hommes,49er
+207,22,,Femmes,iQFoil
+208,22,,Femmes,Formula Kite
+209,22,,Femmes,Laser radial
+210,22,,Femmes,49erFX
+211,22,,Mixte,470
+212,22,,Mixte,Nacra 17
+213,23,,Hommes,10 metre air pistol
+214,23,,Hommes,25 metre rapid fire pistol
+215,23,,Hommes,10 metre air rifle
+216,23,,Hommes,50 metre rifle three positions
+217,23,,Hommes,Skeet
+218,23,,Hommes,Trap
+219,23,,Femmes,10 metre air pistol
+220,23,,Femmes,25 metre pistol
+221,23,,Femmes,10 metre air rifle
+222,23,,Femmes,50 metre rifle three positions
+223,23,,Femmes,Skeet
+224,23,,Femmes,Trap
+225,23,,Mixte,10 metre air pistol team
+226,23,,Mixte,10 metre air rifle team
+227,23,,Mixte,Skeet team
+228,24,,Hommes,Men's park
+229,24,,Hommes,Men's street
+230,24,,Femmes,Women's park
+231,24,,Femmes,Women's street
+232,25,,Hommes,Men's combined
+233,25,,Hommes,Men's speed
+234,25,,Femmes,Women's combined
+235,25,,Femmes,Women's speed
+236,26,,Hommes,Men's shortboard
+237,26,,Femmes,Women's shortboard
+238,27,Pool swimming,Hommes,50 m freestyle
+239,27,Pool swimming,Hommes,100 m freestyle
+240,27,Pool swimming,Hommes,200 m freestyle
+241,27,Pool swimming,Hommes,400 m freestyle
+242,27,Pool swimming,Hommes,800 m freestyle
+243,27,Pool swimming,Hommes,1500 m freestyle
+244,27,Pool swimming,Hommes,100 m backstroke
+245,27,Pool swimming,Hommes,200 m backstroke
+246,27,Pool swimming,Hommes,100 m breaststroke
+247,27,Pool swimming,Hommes,200 m breaststroke
+248,27,Pool swimming,Hommes,100 m butterfly
+249,27,Pool swimming,Hommes,200 m butterfly
+250,27,Pool swimming,Hommes,200 m individual medley
+251,27,Pool swimming,Hommes,400 m individual medley
+252,27,Pool swimming,Hommes,4 × 100 m freestyle relay
+253,27,Pool swimming,Hommes,4 × 200 m freestyle relay
+254,27,Pool swimming,Hommes,4 × 100 m medley relay
+255,27,Pool swimming,Femmes,50 m freestyle
+256,27,Pool swimming,Femmes,100 m freestyle
+257,27,Pool swimming,Femmes,200 m freestyle
+258,27,Pool swimming,Femmes,400 m freestyle
+259,27,Pool swimming,Femmes,800 m freestyle
+260,27,Pool swimming,Femmes,1500 m freestyle
+261,27,Pool swimming,Femmes,100 m backstroke
+262,27,Pool swimming,Femmes,200 m backstroke
+263,27,Pool swimming,Femmes,100 m breaststroke
+264,27,Pool swimming,Femmes,200 m breaststroke
+265,27,Pool swimming,Femmes,100 m butterfly
+266,27,Pool swimming,Femmes,200 m butterfly
+267,27,Pool swimming,Femmes,200 m individual medley
+268,27,Pool swimming,Femmes,400 m individual medley
+269,27,Pool swimming,Femmes,4 × 100 m freestyle relay
+270,27,Pool swimming,Femmes,4 × 200 m freestyle relay
+271,27,Pool swimming,Femmes,4 × 100 m medley relay
+272,27,Pool swimming,Mixte,4 × 100 m medley relay
+273,27,Marathon swimming,Hommes,Men's 10 km open water
+274,27,Marathon swimming,Femmes,Women's 10 km open water
+275,28,,Hommes,Men's singles
+276,28,,Hommes,Men's team
+277,28,,Femmes,Women's singles
+278,28,,Femmes,Women's team
+279,28,,Mixte,Mixed doubles
+280,29,,Hommes,58 kg
+281,29,,Hommes,68 kg
+282,29,,Hommes,80 kg
+283,29,,Hommes,+80 kg
+284,29,,Femmes,49 kg
+285,29,,Femmes,57 kg
+286,29,,Femmes,67 kg
+287,29,,Femmes,+67 kg
+288,30,,Hommes,Men's singles
+289,30,,Hommes,Men's doubles
+290,30,,Femmes,Women's singles
+291,30,,Femmes,Women's doubles
+292,30,,Mixte,Mixed doubles
+293,31,,Hommes,Men's individual
+294,31,,Femmes,Women's individual
+295,31,,Mixte,Mixed relay
+296,32,Beach volleyball,Hommes,Men's beach
+297,32,Beach volleyball,Femmes,Women's beach
+298,32,Indoor volleyball,Hommes,Men's tournament
+299,32,Indoor volleyball,Femmes,Women's tournament
+300,33,,Hommes,Men's tournament
+301,33,,Femmes,Women's tournament
+302,34,,Hommes,61 kg
+303,34,,Hommes,73 kg
+304,34,,Hommes,89 kg
+305,34,,Hommes,102 kg
+306,34,,Hommes,+102 kg
+307,34,,Femmes,49 kg
+308,34,,Femmes,59 kg
+309,34,,Femmes,71 kg
+310,34,,Femmes,81 kg
+311,34,,Femmes,+81 kg
+312,35,Freestyle,Hommes,57 kg
+313,35,Freestyle,Hommes,65 kg
+314,35,Freestyle,Hommes,74 kg
+315,35,Freestyle,Hommes,86 kg
+316,35,Freestyle,Hommes,97 kg
+317,35,Freestyle,Hommes,125 kg
+318,35,Freestyle,Femmes,50 kg
+319,35,Freestyle,Femmes,53 kg
+320,35,Freestyle,Femmes,57 kg
+321,35,Freestyle,Femmes,62 kg
+322,35,Freestyle,Femmes,68 kg
+323,35,Freestyle,Femmes,76 kg
+324,35,Greco-Roman,Hommes,60 kg
+325,35,Greco-Roman,Hommes,67 kg
+326,35,Greco-Roman,Hommes,77 kg
+327,35,Greco-Roman,Hommes,87 kg
+328,35,Greco-Roman,Hommes,97 kg
+329,35,Greco-Roman,Hommes,130 kg
